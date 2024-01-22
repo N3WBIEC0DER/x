@@ -1,2 +1,2 @@
-from nepal import __main__
-__main__()
+import nepal 
+nepal._npl_rnd_()
