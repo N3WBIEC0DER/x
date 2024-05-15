@@ -1,0 +1,12 @@
+# pkg install libsodium
+# SODIUM_INSTALL=system pip install pynacl
+bs4
+rich
+pytz
+wheel
+requests
+licensing
+phonenumbers
+pycryptodome
+pycryptodomex
+httpagentparser
